@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React/JavaScript and Flask/Python**
 
+- 🤝 With knowledge in full-stack development, **I offer the best projects resulting in quality work.**
+
 - 👨‍💻 All of my projects are available at [https://dth2701.github.io/](https://dth2701.github.io/)
 
 - 📫 How to reach me **dothienhuong2701@gmail.com**
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/huong-thien-do/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huong-thien-do/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huong-thien-do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong-thien-do" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dothienhuong2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dothienhuong2701" height="30" width="40" /></a>
 </p>
 
