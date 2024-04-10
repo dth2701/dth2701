@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Huong(Amy) Do</h1>
+![LinkedIn Banner](https://github.com/dth2701/dth2701/assets/126984604/bba83c3a-763a-4953-af01-934833bb1a9d)
+
+<h1 align="center">Hello, I'm Huong(Amy) Do</h1>
 <h3 align="center">A CS Senior at Univeristy of Wisconsin-Madison</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
 
+
 - 🔭 I’m currently looking for **a SWE intern in Summer 2024**
+
+- 🤝 With knowledge in **full-stack development**, I offer the best projects resulting in quality work.
 
 - 🌱 I’m currently learning **React/JavaScript and Flask/Python**
 
-- 🤝 With knowledge in full-stack development, **I offer the best projects resulting in quality work.**
-
-- 👨‍💻 All of my projects are available at [https://dth2701.github.io/](https://dth2701.github.io/)
+- 👨‍💻 All of my projects are available at [https://dth2701.github.io/](https://dth2701.github.io)
 
 - 📫 How to reach me **dothienhuong2701@gmail.com**
 
