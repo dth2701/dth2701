@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/dth2701/dth2701/assets/126984604/bba83c3a-763a-4953-af01-934833bb1a9d)
+![banner](https://github.com/dth2701/dth2701/assets/126984604/e039c97c-fd5e-43b2-951a-e2adfdce2364)
 
 <h1 align="center">Hello, I'm Huong(Amy) Do</h1>
 <h3 align="center">A CS Senior at Univeristy of Wisconsin-Madison</h3>
