@@ -1,4 +1,5 @@
-![banner](https://github.com/dth2701/dth2701/assets/126984604/e039c97c-fd5e-43b2-951a-e2adfdce2364)
+<img width="1048" alt="image" src="https://github.com/dth2701/dth2701/assets/126984604/56f22793-2e95-4e4b-bcb6-c9d014454a9c">
+
 
 <h1 align="center">Hello, I'm Huong(Amy) Do</h1>
 <h3 align="center">A CS Senior at Univeristy of Wisconsin-Madison</h3>
