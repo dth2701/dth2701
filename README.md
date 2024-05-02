@@ -1,4 +1,4 @@
-<img width="1048" alt="image" src="https://github.com/dth2701/dth2701/assets/126984604/56f22793-2e95-4e4b-bcb6-c9d014454a9c">
+<img width="931" alt="Screenshot 2024-05-01 at 10 45 28 PM" src="https://github.com/dth2701/dth2701/assets/126984604/04dc1ce6-7518-4a31-9ac9-245031636e4a">
 
 
 <h1 align="center">Hello, I'm Huong(Amy) Do</h1>
