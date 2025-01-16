@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hello, I'm Huong(Amy) Do</h1>
-<h3 align="center">A CS Senior at Univeristy of Wisconsin-Madison</h3>
+<h3 align="center">A CS&DS Alumni at Univeristy of Wisconsin-Madison</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
 
 
-- 🔭 I’m currently looking for **a SWE intern in Summer 2024**
+- 🔭 I’m currently working as **a SWE starting 2025**
 
 - 🤝 With knowledge in **full-stack development**, I offer the best projects resulting in quality work.
 
