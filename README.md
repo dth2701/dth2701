@@ -2,17 +2,21 @@
 
 
 <h1 align="center">Hello, I'm Huong(Amy) Do</h1>
-<h3 align="center">A CS&DS Alumni at Univeristy of Wisconsin-Madison</h3>
+<h3 align="center">A Full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> + CS&DS Alumni @UW-Madison </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
+<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dth2701&label=Profile%20views&color=0e75b6&style=flat" alt="dth2701" /> </p>
 
 - 🔭 I’m currently working as **a SWE starting 2025**
 
 - 🤝 With knowledge in **full-stack development**, I offer the best projects resulting in quality work.
+  
+- 👨‍💻 Most of my projects are available on ✨<a href="https://dth2701.github.io/">my Portfolio Website</a>✨.
 
-- ⚡ Fun fact **I love and hate coding at the same time!**
+- 🏋️ **Fun fact**: I treat Leetcode the same as Workout. No pain no gain!!
+
+- 🥅  **2025 Goal**: More Workout, More Leetcode!
 
 ## 🌐 Connect with Me
 <p align="left">
