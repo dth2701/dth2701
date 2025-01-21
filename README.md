@@ -62,6 +62,4 @@
 <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dth2701&show_icons=true&locale=en&layout=compact" alt="dth2701" /></p>
+[![Huong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dth2701&show_icons=true&theme=radical)](https://github.com/dth2701/github-readme-stats)
